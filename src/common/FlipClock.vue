@@ -18,7 +18,7 @@ export default {
   data() {
     return {
       timer: null,
-      d1: '2017-08-18 04:56:38',
+      d1: '2019-10-03 00:00:00',
       flipObjs: [],
     }
   },
